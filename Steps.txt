@@ -1,0 +1,1 @@
+Step two i was required to open browser console which I did by hitting F12 on my keyboard, when open I click on console then I was welcome with "Hello Ethernaut" the game was open I typed in "player" and and it returned a wallet address this was all for this step. 
